@@ -1,0 +1,74 @@
+.titulo{
+    
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+
+.tema{
+    font-size: 100px;
+}
+
+
+    body {
+        font-family: 'Arial', sans-serif;
+        background-image: url('/img/cinema.jfif'); /* Substitua pelo nome real do arquivo */
+        background-size: cover; /* Faz com que a imagem cubra toda a tela */
+        background-position: center; /* Centraliza a imagem no fundo */
+        background-repeat: no-repeat; /* Evita repetição da imagem */
+        background-attachment: fixed; /* Faz com que o fundo fique fixo enquanto rola a página */
+        color: white; /* Cor do texto para melhor visibilidade */
+        margin: 0;
+        padding: 5px;
+      }
+   
+
+
+
+.table-img{
+    width: 20%;
+    height: auto;
+    max-width: 100px;
+    object-fit: contain;
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: vermelho;
+}
+
+.botao{
+    color: aliceblue;
+
+}
+
+
+.back-link {
+    display: inline-block;
+    margin-top: 100px;
+    text-decoration: none;
+    color: #333;
+    padding: 10px 15px;
+    border: 2px solid #333; /* solid coloca borda */
+    border-radius: 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
